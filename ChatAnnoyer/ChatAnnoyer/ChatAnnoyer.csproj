@@ -6,9 +6,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="OpenMod.Core" Version="3.0.34" />
-      <PackageReference Include="OpenMod.UnityEngine" Version="3.0.34" />
-      <PackageReference Include="OpenMod.Unturned" Version="3.0.34" />
+      <PackageReference Include="OpenMod.Core" Version="3.1.3" />
+      <PackageReference Include="OpenMod.UnityEngine" Version="3.1.3" />
+      <PackageReference Include="OpenMod.Unturned" Version="3.1.3" />
     </ItemGroup>
 
     <ItemGroup>
@@ -22,7 +22,7 @@
         <PackageLicenseExpression>WTFPL</PackageLicenseExpression> <!-- see https://spdx.org/licenses/ -->
         <PackageAuthor>Charterino</PackageAuthor>
         <PackageTags>openmod openmod-plugin openmod-unturned unturned</PackageTags>
-        <Version>1.0.2</Version>
+        <Version>1.0.3</Version>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <GenerateNugetPackage>true</GenerateNugetPackage>
     </PropertyGroup>
